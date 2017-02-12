@@ -33,27 +33,27 @@ scanned a 3x3 box and displayed all bombs. This can be used to deduce the locati
 
 
 
-### Why my game is different to the original
+# Why my game is different to the original
 
 My game takes all of what Minesweeper currently is and adds features to enhance it.
 
 ~~Players use the mouse to activate cells on the grid~~
 
-## **Players now walk around the map filled with cells and press E when facing the block to activate it**
+### **Players now walk around the map filled with cells and press E when facing the block to activate it**
 
 
 
 
 ~~The game two dimensional~~
 
-## **The game I am designing will be 2.5D**
+### **The game I am designing will be 2.5D**
 
 
 
 
 ~~The original gave the players a chance to plant flags so as to note down suspect cells~~
 
-## **Players will now be given the ability to remove blocks they are unsure of**
+### **Players will now be given the ability to remove blocks they are unsure of**
 
 
 
