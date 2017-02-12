@@ -7,11 +7,13 @@ I plan to design and create a 2.5 dimensional take on the popular game _Mineswee
 ## What my game is based off
 The game will follow all of the original minesweeper gameplay mechanics and have a grid full of squares with two possible variants:
 1. A bomb
+
 ..* Activating this tile will end the game with the player losing.
 ..* There will be no clear signs which indicate which tile is a bomb and which is not.
 ..* The player does not get multiple lives.
 
 2. No bomb
+
 ..* Activating this tile will not end the game and the player will continue to play.
 ..* If the tile activated is in proximity of a bomb it will display a number from 1 - 8. 
 
