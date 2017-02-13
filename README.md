@@ -14,6 +14,7 @@ The game will follow all of the original minesweeper gameplay mechanics and have
 * There will be no clear signs which indicate which tile is a bomb and which is not
 
 * The player does not get multiple lives
+
 2. **No bomb**
 
 * Activating this tile will not end the game and the player will continue to play.
