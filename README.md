@@ -59,3 +59,5 @@ My game takes all of what Minesweeper currently is and adds features to enhance 
 _However in regards to the above feature the player will only be able to remove the amount of bombs placed on the map, e.g if
 the map has 16 bombs the player can only remove 16 blocks so if the player realises he has made a mistake he can put a block back down_
 
+
+# Controller Proposal
