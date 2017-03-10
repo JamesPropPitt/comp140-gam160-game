@@ -61,3 +61,13 @@ the map has 16 bombs the player can only remove 16 blocks so if the player reali
 
 
 # Controller Proposal
+My general plan for the controller layout will be a list of the following: 
+* 6 buttons
+* 2 L.E.Ds (1 red, 1 green)
+* Pringle tube
+
+I plan to take a pringles can and slice it in half, cut 4 holes in a horizontal line across the tube and one bigger hole in the center with a slightly smaller hole directly next to it.
+The four smaller holes will be used for movement and menu navigation, similar to the D-pad of current popular console controllers
+(Xbox, PlayStation) and the bigger button will be used to select an object in game and in the menus. In game this big button will detonate the bomb whilst the slightly smaller button next to it will be used to remove clear blocks which the player has deciphered is safe to remove and does not contain a bomb.
+
+This is my idea for a controller because I want my gameplay to be centered around not just locating the bombs but also exploding them with the 'bomb defusal' equipment. 
